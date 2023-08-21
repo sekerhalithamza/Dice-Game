@@ -1,2 +1,3 @@
 # Dice-Game
- Simple Dice Game Made with JavaScript
+
+Simple Dice Game Made with JavaScript
